@@ -1,3 +1,4 @@
+
 .preloader {
   position: absolute;
   inset: 0;
@@ -5,6 +6,7 @@
   justify-content: center;
   align-items: center;
   background: #545050;
+  z-index: 3;
 }
 
 .preloader-chasing-squares {
