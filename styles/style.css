@@ -26,7 +26,7 @@ html {
   align-items: end;
   width: 100%;
   gap: 30px;
-  /* padding: 150px 30px 0 30px; */
+  padding: 0 30px;
 }
 
 .result {
@@ -38,7 +38,7 @@ html {
 .result__video-container {
   position: relative;
   width: 100%;
-  margin-bottom: -12px;
+  /* margin-bottom: -12px; */
 }
 
 .result__video {
@@ -51,7 +51,7 @@ html {
 .search-form {
   max-width: 711px;
   display: block;
-  padding-top: 20px;
+  padding-top: 8px;
   border: 1px solid #1b1919;
   width: 100%;
   display: flex;
@@ -216,6 +216,7 @@ html {
 }
 
 .content__card-link {
+  display: block;
   box-sizing: border-box;
   color: #fff;
   text-decoration: none;
