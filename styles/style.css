@@ -80,7 +80,7 @@ html {
 .search-form__textfield {
   color: #fff;
   font-size: 18px;
-  font-family: Fira Sans Condensed;
+  font-family: Fira Sans Condensed, sans-serif;
   background-color: transparent;
   border: none;
   width: 100%;
@@ -110,7 +110,7 @@ html {
 
 .search-form__fieldset-title {
   color: #fff;
-  font-family: Fira Sans Condensed;
+  font-family: Fira Sans Condensed, sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
@@ -183,7 +183,7 @@ html {
 }
 
 .title {
-  font-family: Oswald;
+  font-family: Oswald, sans-serif;
   font-size: 75px;
   font-style: normal;
   font-weight: 700;
@@ -256,7 +256,7 @@ html {
 }
 
 .content__video-card-title {
-  font-family: Oswald;
+  font-family: Oswald, sans-serif;
   font-size: 30px;
   font-weight: 700;
   line-height: 100%; /* 30px */
@@ -264,7 +264,7 @@ html {
 }
 
 .content__video-card-description {
-  font-family: Fira Sans Condensed;
+  font-family: Fira Sans Condensed, sans-serif;
   font-size: 18px;
   font-weight: 400;
   line-height: 16.2px; /* 90% */
@@ -312,7 +312,7 @@ ol {
 .button {
   color: #fff;
   text-align: center;
-  font-family: Fira Sans Condensed;
+  font-family: Fira Sans Condensed,sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
